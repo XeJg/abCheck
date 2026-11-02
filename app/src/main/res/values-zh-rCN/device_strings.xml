@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="device_label_0" formatted="false">仪表盘</string>
+    <string name="device_label_1" formatted="false">硬件</string>
+    <string name="device_label_2" formatted="false">系统</string>
+    <string name="device_label_3" formatted="false">电池</string>
+    <string name="device_label_4" formatted="false">网络</string>
+    <string name="device_label_5" formatted="false">应用</string>
+    <string name="device_label_6" formatted="false">相机</string>
+    <string name="device_label_7" formatted="false">传感器</string>
+    <string name="device_label_8" formatted="false">测试</string>
+    <string name="device_label_9" formatted="false">工具</string>
+    <string name="device_label_10" formatted="false">小组件</string>
+    <string name="device_label_11" formatted="false">监视器</string>
+    <string name="device_label_12" formatted="false">性能测试</string>
+    <string name="device_label_13" formatted="false">电池监视</string>
+    <string name="device_label_14" formatted="false">设备报告</string>
+    <string name="device_label_15" formatted="false">设置</string>
+    <string name="device_label_16" formatted="false">隐私政策</string>
+    <string name="device_label_17" formatted="false">语言</string>
+    <string name="device_label_18" formatted="false">CPU 状态</string>
+    <string name="device_label_19" formatted="false">虚拟 CPU</string>
+    <string name="device_label_20" formatted="false">离线</string>
+    <string name="device_label_21" formatted="false">频率不可用</string>
+    <string name="device_label_22" formatted="false">内存</string>
+    <string name="device_label_23" formatted="false">存储</string>
+    <string name="device_label_24" formatted="false">显示</string>
+    <string name="device_label_25" formatted="false">CPU 分析</string>
+    <string name="device_label_26" formatted="false">系统图表</string>
+    <string name="device_label_27" formatted="false">温度</string>
+    <string name="device_label_28" formatted="false">Wi-Fi 扫描</string>
+    <string name="device_label_29" formatted="false">蓝牙扫描</string>
+    <string name="device_label_30" formatted="false">USB</string>
+    <string name="device_label_31" formatted="false">网络用量</string>
+    <string name="device_label_32" formatted="false">屏幕使用时间</string>
+    <string name="device_label_33" formatted="false">权限查看器</string>
+    <string name="device_label_34" formatted="false">任务管理器</string>
+    <string name="device_label_35" formatted="false">日志</string>
+    <string name="device_label_36" formatted="false">OpenGL 信息</string>
+    <string name="device_label_37" formatted="false">网络可达性</string>
+    <string name="device_label_38" formatted="false">网络扫描</string>
+    <string name="device_label_39" formatted="false">Shizuku 诊断</string>
+    <string name="device_label_40" formatted="false">Root 检测</string>
+    <string name="device_label_41" formatted="false">启动完整性</string>
+    <string name="device_label_42" formatted="false">CPU 得分</string>
+    <string name="device_label_43" formatted="false">GPU 得分</string>
+    <string name="device_label_44" formatted="false">存储健康</string>
+    <string name="device_label_45" formatted="false">屏幕测试</string>
+    <string name="device_label_46" formatted="false">多点触控</string>
+    <string name="device_label_47" formatted="false">亮度</string>
+    <string name="device_label_48" formatted="false">按键</string>
+    <string name="device_label_49" formatted="false">振动</string>
+    <string name="device_label_50" formatted="false">扬声器</string>
+    <string name="device_label_51" formatted="false">听筒</string>
+    <string name="device_label_52" formatted="false">麦克风</string>
+    <string name="device_label_53" formatted="false">手电筒</string>
+    <string name="device_label_54" formatted="false">相机测试</string>
+    <string name="device_label_55" formatted="false">加速度计</string>
+    <string name="device_label_56" formatted="false">陀螺仪</string>
+    <string name="device_label_57" formatted="false">光线传感器</string>
+    <string name="device_label_58" formatted="false">距离传感器</string>
+    <string name="device_label_59" formatted="false">磁场</string>
+    <string name="device_label_60" formatted="false">耳机</string>
+    <string name="device_label_61" formatted="false">充电</string>
+    <string name="device_label_62" formatted="false">生物识别</string>
+    <string name="device_label_63" formatted="false">处理器</string>
+    <string name="device_label_64" formatted="false">CPU 频率</string>
+    <string name="device_label_65" formatted="false">CPU 信息</string>
+    <string name="device_label_66" formatted="false">图形</string>
+    <string name="device_label_67" formatted="false">内存与存储</string>
+    <string name="device_label_68" formatted="false">内核内存</string>
+    <string name="device_label_69" formatted="false">音频设备</string>
+    <string name="device_label_70" formatted="false">媒体编解码器</string>
+    <string name="device_label_71" formatted="false">硬件特性</string>
+    <string name="device_label_72" formatted="false">设备</string>
+    <string name="device_label_73" formatted="false">Android</string>
+    <string name="device_label_74" formatted="false">运行时</string>
+    <string name="device_label_75" formatted="false">Root 与特权访问</string>
+    <string name="device_label_76" formatted="false">连接</string>
+    <string name="device_label_77" formatted="false">Wi-Fi</string>
+    <string name="device_label_78" formatted="false">移动网络</string>
+    <string name="device_label_79" formatted="false">开机以来流量</string>
+    <string name="device_label_80" formatted="false">制造商</string>
+    <string name="device_label_81" formatted="false">品牌</string>
+    <string name="device_label_82" formatted="false">型号</string>
+    <string name="device_label_83" formatted="false">产品</string>
+    <string name="device_label_84" formatted="false">主板</string>
+    <string name="device_label_85" formatted="false">引导程序</string>
+    <string name="device_label_86" formatted="false">版本</string>
+    <string name="device_label_87" formatted="false">API 级别</string>
+    <string name="device_label_88" formatted="false">安全补丁</string>
+    <string name="device_label_89" formatted="false">版本号</string>
+    <string name="device_label_90" formatted="false">版本 ID</string>
+    <string name="device_label_91" formatted="false">指纹</string>
+    <string name="device_label_92" formatted="false">版本类型</string>
+    <string name="device_label_93" formatted="false">标签</string>
+    <string name="device_label_94" formatted="false">内核</string>
+    <string name="device_label_95" formatted="false">时区</string>
+    <string name="device_label_96" formatted="false">运行时间</string>
+    <string name="device_label_97" formatted="false">唤醒时间</string>
+    <string name="device_label_98" formatted="false">开机以来深睡</string>
+    <string name="device_label_99" formatted="false">省电模式</string>
+    <string name="device_label_100" formatted="false">交互状态</string>
+    <string name="device_label_101" formatted="false">热状态</string>
+    <string name="device_label_102" formatted="false">ADB 已启用</string>
+    <string name="device_label_103" formatted="false">开发者选项</string>
+    <string name="device_label_104" formatted="false">SoC 制造商</string>
+    <string name="device_label_105" formatted="false">SoC 型号</string>
+    <string name="device_label_106" formatted="false">核心数</string>
+    <string name="device_label_107" formatted="false">架构</string>
+    <string name="device_label_108" formatted="false">64 位 ABI</string>
+    <string name="device_label_109" formatted="false">分辨率</string>
+    <string name="device_label_110" formatted="false">刷新率</string>
+    <string name="device_label_111" formatted="false">密度</string>
+    <string name="device_label_112" formatted="false">逻辑密度</string>
+    <string name="device_label_113" formatted="false">广色域</string>
+    <string name="device_label_114" formatted="false">支持的模式</string>
+    <string name="device_label_115" formatted="false">Java 堆上限</string>
+    <string name="device_label_116" formatted="false">内部存储</string>
+    <string name="device_label_117" formatted="false">可用存储</string>
+    <string name="device_label_118" formatted="false">页大小</string>
+    <string name="device_label_119" formatted="false">外部存储卷</string>
+    <string name="device_label_120" formatted="false">传输方式</string>
+    <string name="device_label_121" formatted="false">网络已验证</string>
+    <string name="device_label_122" formatted="false">计费网络</string>
+    <string name="device_label_123" formatted="false">下行估计</string>
+    <string name="device_label_124" formatted="false">上行估计</string>
+    <string name="device_label_125" formatted="false">接口</string>
+    <string name="device_label_126" formatted="false">地址</string>
+    <string name="device_label_127" formatted="false">路由</string>
+    <string name="device_label_128" formatted="false">已启用</string>
+    <string name="device_label_129" formatted="false">SSID</string>
+    <string name="device_label_130" formatted="false">BSSID</string>
+    <string name="device_label_131" formatted="false">信号</string>
+    <string name="device_label_132" formatted="false">链路速度</string>
+    <string name="device_label_133" formatted="false">频率</string>
+    <string name="device_label_134" formatted="false">已接收</string>
+    <string name="device_label_135" formatted="false">已发送</string>
+    <string name="device_label_136" formatted="false">移动数据接收</string>
+    <string name="device_label_137" formatted="false">移动数据发送</string>
+    <string name="device_label_138" formatted="false">本应用接收</string>
+    <string name="device_label_139" formatted="false">本应用发送</string>
+    <string name="device_label_140" formatted="false">运营商</string>
+    <string name="device_label_141" formatted="false">国家/地区</string>
+    <string name="device_label_142" formatted="false">SIM 运营商</string>
+    <string name="device_label_143" formatted="false">SIM 状态</string>
+    <string name="device_label_144" formatted="false">电话类型</string>
+    <string name="device_label_145" formatted="false">漫游</string>
+    <string name="device_label_146" formatted="false">厂商</string>
+    <string name="device_label_147" formatted="false">类型</string>
+    <string name="device_label_148" formatted="false">量程</string>
+    <string name="device_label_149" formatted="false">功耗</string>
+    <string name="device_label_150" formatted="false">最小延迟</string>
+    <string name="device_label_151" formatted="false">唤醒</string>
+    <string name="device_label_152" formatted="false">上报模式</string>
+    <string name="device_label_153" formatted="false">状态</string>
+    <string name="device_label_154" formatted="false">访问</string>
+    <string name="device_label_155" formatted="false">范围</string>
+    <string name="device_label_156" formatted="false">不可用</string>
+    <string name="device_label_157" formatted="false">已断开</string>
+    <string name="device_label_158" formatted="false">是</string>
+    <string name="device_label_159" formatted="false">否</string>
+    <string name="device_label_160" formatted="false">正常</string>
+    <string name="device_label_161" formatted="false">实时传感器读数</string>
+    <string name="device_label_162" formatted="false">等待传感器事件…</string>
+    <string name="device_label_163" formatted="false">搜索信息</string>
+    <string name="device_label_164" formatted="false">搜索应用或包名</string>
+    <string name="device_label_165" formatted="false">用户</string>
+    <string name="device_label_166" formatted="false">全部</string>
+    <string name="device_label_167" formatted="false">应用设置</string>
+    <string name="device_label_168" formatted="false">关闭</string>
+    <string name="device_label_169" formatted="false">确定</string>
+    <string name="device_label_170" formatted="false">打开测试</string>
+    <string name="device_label_171" formatted="false">打开工具</string>
+    <string name="device_label_172" formatted="false">运行测试</string>
+    <string name="device_label_173" formatted="false">切换闪光灯</string>
+    <string name="device_label_174" formatted="false">就绪</string>
+    <string name="device_label_175" formatted="false">外观</string>
+    <string name="device_label_176" formatted="false">Android 访问权限</string>
+    <string name="device_label_177" formatted="false">应用权限</string>
+    <string name="device_label_178" formatted="false">使用情况访问</string>
+    <string name="device_label_179" formatted="false">在其他应用上层显示</string>
+    <string name="device_label_180" formatted="false">分享报告</string>
+    <string name="device_label_181" formatted="false">导出设备报告</string>
+    <string name="device_label_182" formatted="false">选择保存位置</string>
+    <string name="device_label_183" formatted="false">复制简要规格</string>
+    <string name="device_label_184" formatted="false">已复制到剪贴板</string>
+    <string name="device_label_185" formatted="false">报告已导出</string>
+    <string name="device_label_186" formatted="false">相机图像不会被保存</string>
+    <string name="device_label_187" formatted="false">开始录制</string>
+    <string name="device_label_188" formatted="false">停止录制</string>
+    <string name="device_label_189" formatted="false">播放录音</string>
+    <string name="device_label_190" formatted="false">扫描 Wi-Fi</string>
+    <string name="device_label_191" formatted="false">扫描蓝牙</string>
+    <string name="device_label_192" formatted="false">扫描局域网</string>
+    <string name="device_label_193" formatted="false">检测连通性</string>
+    <string name="device_label_194" formatted="false">主机名或 IP</string>
+    <string name="device_label_195" formatted="false">取消</string>
+    <string name="device_label_196" formatted="false">已取消</string>
+    <string name="device_label_197" formatted="false">完成</string>
+    <string name="device_label_198" formatted="false">启动悬浮窗</string>
+    <string name="device_label_199" formatted="false">停止</string>
+    <string name="device_label_200" formatted="false">悬浮监视</string>
+    <string name="device_label_201" formatted="false">实时系统图表</string>
+    <string name="device_label_202" formatted="false">桌面小组件</string>
+    <string name="device_label_203" formatted="false">添加仪表盘小组件</string>
+    <string name="device_label_204" formatted="false">刷新小组件</string>
+    <string name="device_label_205" formatted="false">电池历史</string>
+    <string name="device_label_206" formatted="false">复制历史 CSV</string>
+    <string name="device_label_207" formatted="false">启用使用情况访问</string>
+    <string name="device_label_208" formatted="false">刷新</string>
+    <string name="device_label_209" formatted="false">定位设置</string>
+    <string name="device_label_210" formatted="false">此设备未上报任何数据。</string>
+    <string name="device_label_211" formatted="false">未连接 USB 设备</string>
+    <string name="device_label_212" formatted="false">运行性能测试</string>
+    <string name="device_label_213" formatted="false">本地性能测试</string>
+    <string name="device_label_214" formatted="false">完成的测试会显示在这里。</string>
+    <string name="device_label_215" formatted="false">此工具需要权限</string>
+    <string name="device_label_216" formatted="false">授予权限</string>
+    <string name="device_label_217" formatted="false">打开应用设置</string>
+    <string name="device_label_218" formatted="false">打开 Shizuku</string>
+    <string name="device_label_219" formatted="false">授予访问</string>
+    <string name="device_label_220" formatted="false">连接</string>
+    <string name="device_label_221" formatted="false">温度传感器</string>
+    <string name="device_label_222" formatted="false">所有进程</string>
+    <string name="device_label_223" formatted="false">设备日志</string>
+    <string name="device_label_224" formatted="false">电池服务</string>
+    <string name="device_label_225" formatted="false">Root 权限检测</string>
+    <string name="device_label_226" formatted="false">测试 Root 权限</string>
+    <string name="device_label_227" formatted="false">启动与身份信号</string>
+    <string name="device_label_228" formatted="false">硬件验证</string>
+    <string name="device_label_229" formatted="false">验证启动状态</string>
+    <string name="device_label_230" formatted="false">分区已锁定</string>
+    <string name="device_label_231" formatted="false">设备状态</string>
+    <string name="device_label_232" formatted="false">版本指纹</string>
+    <string name="device_label_233" formatted="false">版本标签</string>
+    <string name="device_label_234" formatted="false">操作系统</string>
+    <string name="device_label_235" formatted="false">CPU 配置</string>
+    <string name="device_label_236" formatted="false">IP 配置</string>
+    <string name="device_label_237" formatted="false">电池详情</string>
+    <string name="device_label_238" formatted="false">报告</string>
+    <string name="device_label_239" formatted="false">可见</string>
+    <string name="device_label_240" formatted="false">温度</string>
+    <string name="device_label_241" formatted="false">气压</string>
+    <string name="device_label_242" formatted="false">重力</string>
+    <string name="device_label_243" formatted="false">线性加速度</string>
+    <string name="device_label_244" formatted="false">旋转矢量</string>
+    <string name="device_label_245" formatted="false">湿度</string>
+    <string name="device_label_246" formatted="false">设备与系统</string>
+    <string name="device_label_247" formatted="false">快速检测</string>
+    <string name="device_label_248" formatted="false">实时监控</string>
+    <string name="device_label_249" formatted="false">设备信息</string>
+    <string name="device_label_250" formatted="false">查看设备提供的详细信息。</string>
+    <string name="device_label_251" formatted="false">处理器、图形、显示与内存</string>
+    <string name="device_label_252" formatted="false">Android、版本与设备标识</string>
+    <string name="device_label_253" formatted="false">健康、循环与充电</string>
+    <string name="device_label_254" formatted="false">连接与网络配置</string>
+    <string name="device_label_255" formatted="false">已安装应用与权限</string>
+    <string name="device_label_256" formatted="false">相机能力与预览</string>
+    <string name="device_label_257" formatted="false">实时读数与传感器详情</string>
+    <string name="device_label_258" formatted="false">硬件检测</string>
+    <string name="device_label_259" formatted="false">运行检测后记录你的观察结果。</string>
+    <string name="device_label_260" formatted="false">显示与触控</string>
+    <string name="device_label_261" formatted="false">控制与反馈</string>
+    <string name="device_label_262" formatted="false">音频与相机</string>
+    <string name="device_label_263" formatted="false">连接与安全</string>
+    <string name="device_label_264" formatted="false">导出或分享设备信息</string>
+    <string name="device_label_265" formatted="false">关于</string>
+    <string name="device_label_266" formatted="false">用户应用</string>
+    <string name="device_label_267" formatted="false">系统应用</string>
+    <string name="device_label_268" formatted="false">全部应用</string>
+    <string name="device_label_269" formatted="false">快捷入口</string>
+    <string name="device_label_270" formatted="false">通过</string>
+    <string name="device_label_271" formatted="false">失败</string>
+    <string name="device_label_272" formatted="false">未测试</string>
+    <string name="device_label_273" formatted="false">运行测试后记录你的观察结果</string>
+</resources>
